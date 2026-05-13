@@ -1,4 +1,4 @@
-# 
+# Enhance YNAB for PC | YNAB for Windows with instant YNAB for PC | YNAB for Windows Integration | receipt-capture + user-permissions, the #1 integration. Includes receipt-capture
 
 
 
